@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f3f3f3;
+  }
+  
+  .footer-links a {
+    margin-right: 10px;
+  }
+  
+  .footer-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .app-download img {
+    width: 100px;
+    margin-left: 10px;
+  }
+  
